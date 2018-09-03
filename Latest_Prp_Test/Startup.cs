@@ -29,6 +29,8 @@ namespace WebApplication7
         {
             this.config = config;
             this.environment = env;
+
+
         }
 
         // This method gets called by the runtime. Use this method to add services to the container.
